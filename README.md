@@ -39,3 +39,12 @@ A console-based social media simulation built using **C++** that implements core
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ayesha-Nadeem27/Cpp
+
+2. Compile the C++ source files:
+   ```bash
+   g++ main.cpp -o SocialMediaApp
+
+3. Run the application:
+   ./SocialMediaApp
+
+
