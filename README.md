@@ -42,4 +42,3 @@ A console-based social media simulation built using **C++** that implements core
    ```bash
    ./SocialMediaApp
 
-
