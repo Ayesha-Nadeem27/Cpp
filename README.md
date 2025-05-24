@@ -28,12 +28,6 @@ A console-based social media simulation built using **C++** that implements core
 
 ---
 
-## 📸 Preview
-
-> _You can add screenshots or a screen-recorded GIF here to visualize the app._
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository:
